@@ -1,1 +1,6 @@
-# git-practice-task
+# Prajwal
+
+## MCA
+
+- Branch: `master`
+- Course: MCA
